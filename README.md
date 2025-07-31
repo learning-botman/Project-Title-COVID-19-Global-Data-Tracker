@@ -58,6 +58,8 @@ This project explores the COVID-19 pandemic using the [Our World in Data COVID-1
 3. Upload the dataset: `owid-covid-data.csv`.
 4. Run all cells to reproduce the analysis and visualizations.
 
+N/B
+All samples are variations of the final project 
 
 ## 🧑‍💻 Author
 
